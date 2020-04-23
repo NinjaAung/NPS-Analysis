@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 
-df = pd.read_csv('datasets/SAFS_Final/2017/Student Feedback Surveys-Superview.csv')
+df = pd.read_csv('../datasets/SAFS_Final/2017/Student Feedback Surveys-Superview.csv')
 print(df)
 
 #
